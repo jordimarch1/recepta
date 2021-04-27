@@ -1,0 +1,21 @@
+body{
+    height:100vh;
+    width: 70%;
+    margin:auto;
+    text-align: center;
+    font-size: 25px;
+}
+header{
+    height: 120vhp;
+    background-image: url("images/apple-pie.jpg");
+}
+    
+h1{
+    line-height: 50vh;
+    text-align: center;
+    color: rgb(250, 249, 249);
+    font-size: 100px;
+}
+h2{
+
+}
