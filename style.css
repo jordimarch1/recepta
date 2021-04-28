@@ -2,7 +2,7 @@ body{
     height:100vh;
     width: 70%;
     margin:auto;
-    text-align: center;
+    text-align: left;
     font-size: 25px;
 }
 header{
@@ -15,7 +15,15 @@ h1{
     text-align: center;
     color: rgb(250, 249, 249);
     font-size: 100px;
-}
-h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
+}
+.cooking{
+    display: block;
+    margin: auto;
+
+}
+.recipe{
+    display: block;
+    margin: auto;
 }
